@@ -1,11 +1,11 @@
 # Site settings
 author: Terrell Murrell
-title: 
+title: Why did I decide to study Software Engineering?
 header-img: img/home-bg.png
 email: littlerell12@gmail.com
 copyright_name: Terrell Murrell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Career
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tmurrell2020
